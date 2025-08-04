@@ -1,4 +1,4 @@
-this is a simple project of praticing javascrip DOM manupulation
+this is a simple project of praticing javascript DOM manupulation
 features:
 can count the number by using buttons 
 reset button reset the counter
