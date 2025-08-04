@@ -7,4 +7,4 @@ technologies use
 2. CSS
 3. Javascript
 
-
+([Live here](https://sohancse53.github.io/number-counter/))
